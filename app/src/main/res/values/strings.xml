@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project4</string>
+    <string name="detail_fragment_label">My city\n</string>
+    <string name="list_fragment_label">Category\n</string>
+</resources>
